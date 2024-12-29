@@ -1,6 +1,8 @@
 # Data Science Portfolio
 
-Selamat datang di repositori Data Science Portfolio saya! Di sini, saya mengumpulkan proyek-proyek analisis data yang telah saya kerjakan menggunakan berbagai algoritma machine learning. Setiap proyek dirancang untuk memecahkan masalah tertentu dan menampilkan keterampilan saya dalam analisis data, pemrograman Python, dan penggunaan model prediktif.
+Selamat datang di repositori Data Science Portfolio saya! Di sini, saya mengumpulkan proyek-proyek analisis data yang telah saya kerjakan menggunakan berbagai algoritma machine learning. Setiap proyek dirancang untuk memecahkan masalah tertentu dan menampilkan keterampilan saya dalam analisis data, pemrograman Python, dan penggunaan model prediktif. Saya adalah seorang data scientist pemula yang sedang mempelajari analisis data menggunakan Python dan algoritma machine learning. Saya antusias untuk terus belajar dan mengembangkan proyek baru.
+
+---
 
 ## Daftar Proyek
 
