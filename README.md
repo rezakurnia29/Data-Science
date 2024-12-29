@@ -11,4 +11,17 @@ Selamat datang di repositori Data Science Portfolio saya! Di sini, saya mengumpu
 - **Hasil Utama**:
   - Akurasi model: 85%
   - Faktor terpenting dalam churn: Complain, Age
+ 
+### 2. Customer K-Means Clustering
+- **Deskripsi**: Membagi data menjadi beberapa kelompok menggunakan algoritma K-Means
+- **Tools**: Python, Matplotlib, Scikit-learn.
+- **File Proyek**: `K_Means_Clustering.ipynb`
+- **Hasil Utama**:
+  - Dataset dikelompokkan menjadi 3 cluster utama.
+  - Visualisasi cluster tersedia di dalam notebook.
+
+## Cara Menjalankan Proyek
+1. Clone repositori ini: `git clone https://github.com/rezakurnia29/Data-Science.git`
+2. Buka salah satu file `.ipynb` di Jupyter Notebook atau Google Colab.
+3. Jalankan cell untuk melihat hasil analisis.
 
