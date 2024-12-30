@@ -3,6 +3,7 @@
 **Deskripsi**: Deskripsi: Menganalisis sentimen dari ulasan pengguna PUBG Mobile di Google Play Store menggunakan algoritma Naive Bayes. Analisis ini mencakup visualisasi data, pembersihan teks, dan evaluasi model untuk mengklasifikasikan sentimen menjadi positif, negatif, atau netral. Proyek ini bertujuan untuk menganalisis sentimen ulasan game PUBG Mobile yang diambil dari Google Play Store menggunakan Naive Bayes sebagai algoritma utama. Data yang digunakan telah diproses dan diolah untuk menghasilkan insight sentimen dari pengguna.
 
 **Tools**: Python, Google Colab, Scikit-learn, WordCloud, NLTK.
+
 **File Proyek**: `Analisis_Sentimen_PUBG_Mobile.ipynb`
 
 **Fitur Proyek**
