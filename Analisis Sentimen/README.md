@@ -7,11 +7,12 @@
 **File Proyek**: `Analisis_Sentimen_PUBG_Mobile.ipynb`
 
 **Fitur Proyek**
-Pengumpulan Data: Menggunakan library google-play-scraper untuk mengambil 1.000 ulasan dari PUBG Mobile di Google Play Store.
-Pembersihan Data: Menghapus stopwords, karakter khusus, dan kata-kata tidak relevan untuk meningkatkan kualitas analisis.
-Visualisasi: Membuat Word Cloud dan diagram batang distribusi sentimen.
-Klasifikasi Sentimen: Menggunakan algoritma Naive Bayes untuk memprediksi sentimen (positif, negatif, netral).
-TF-IDF: Mengolah teks menggunakan metode TF-IDF untuk menghasilkan fitur yang relevan.
+
+- **Pengumpulan Data**: Menggunakan library google-play-scraper untuk mengambil 1.000 ulasan dari PUBG Mobile di Google Play Store.
+- **Pembersihan Data**: Menghapus stopwords, karakter khusus, dan kata-kata tidak relevan untuk meningkatkan kualitas analisis.
+- **Visualisasi**: Membuat Word Cloud dan diagram batang distribusi sentimen.
+- **Klasifikasi Sentimen**: Menggunakan algoritma Naive Bayes untuk memprediksi sentimen (positif, negatif, netral).
+- **TF-IDF**: Mengolah teks menggunakan metode TF-IDF untuk menghasilkan fitur yang relevan.
 
 **Hasil Utama**:
   - **Akurasi model**: 55%
