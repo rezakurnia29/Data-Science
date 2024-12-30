@@ -19,4 +19,5 @@ TF-IDF: Mengolah teks menggunakan metode TF-IDF untuk menghasilkan fitur yang re
   -   **Negatif**: 520 Ulasan
   -   **Positif**: 347 Ulasana
   -   **Neutral**: 133 Ulasan
+    
  **Hasil terpenting dalam sentiment**: game, main, update, bug
