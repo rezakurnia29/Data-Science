@@ -24,11 +24,16 @@ Selamat datang di repositori Data Science Portfolio saya! Di sini, saya mengumpu
 
 ### 3. Analisis Sentiment Pubg Mobile
 - **Deskripsi**: Membagi data menjadi beberapa kelompok menggunakan algoritma K-Means
-- **Tools**: Python, Matplotlib, Scikit-learn.
-- **File Proyek**: `K_Means_Clustering.ipynb`
+- **Tools**: Python, WordCloud, NLTK
+- **File Proyek**: `Analisis_Sentimen_PUBG_Mobile.ipynb`
 - **Hasil Utama**:
-  - Dataset dikelompokkan menjadi 3 cluster utama.
-  - Visualisasi cluster tersedia di dalam notebook.
+  - **Akurasi model**: 55%
+  - **Distribusi Sentimen** :
+  -   **Negatif**: 520 Ulasan
+  -   **Positif**: 347 Ulasana
+  -   **Neutral**: 133 Ulasan
+    
+ **Hasil terpenting dalam sentiment**: game, main, update, bug
 
 ## Cara Menjalankan Proyek
 1. Clone repositori ini: `git clone https://github.com/rezakurnia29/Data-Science.git`
