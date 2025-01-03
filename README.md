@@ -23,7 +23,7 @@ Selamat datang di repositori Data Science Portfolio saya! Di sini, saya mengumpu
   - Visualisasi cluster tersedia di dalam notebook.
 
 ### 3. Analisis Sentiment Pubg Mobile
-- **Deskripsi**: Membagi data menjadi beberapa kelompok menggunakan algoritma K-Means
+- **Deskripsi**: Menganalisis sentimen dari ulasan pengguna PUBG Mobile di Google Play Store menggunakan algoritma Naive Bayes.
 - **Tools**: Python, WordCloud, NLTK
 - **File Proyek**: `Analisis_Sentimen_PUBG_Mobile.ipynb`
 - **Hasil Utama**:
