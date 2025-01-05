@@ -32,8 +32,6 @@ Selamat datang di repositori Data Science Portfolio saya! Di sini, saya mengumpu
   -   **Negatif**: 520 Ulasan
   -   **Positif**: 347 Ulasana
   -   **Neutral**: 133 Ulasan
-    
- **Hasil terpenting dalam sentiment**: game, main, update, bug
 
 ## Cara Menjalankan Proyek
 1. Clone repositori ini: `git clone https://github.com/rezakurnia29/Data-Science.git`
