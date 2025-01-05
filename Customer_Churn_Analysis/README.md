@@ -20,7 +20,9 @@ diprediksi. Kelas dengan jumlah suara terbanyak dipilih sebagai prediksi akhir.
   - **Akurasi model**: 85%
   - **Penjelasan**: Model ini memiliki akurasi sebesar 85%, yang berarti 85% dari semua prediksi
 yang dibuat oleh model adalah benar. Ini menunjukkan bahwa model cukup baik
-dalam mengklasifikasikan data secara keseluruhan. variabel yang paling penting selain complain adalah variabel Age. 
+dalam mengklasifikasikan data secara keseluruhan.
+  - **Faktor Churn**: Complain, Age, NumOfProducts
+
    
 
  ## Cara Menjalankan Proyek
