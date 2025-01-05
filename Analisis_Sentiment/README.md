@@ -22,3 +22,8 @@
   -   **Neutral**: 133 Ulasan
     
  **Hasil terpenting dalam sentiment**: game, main, update, bug
+
+ ## Cara Menjalankan Proyek
+1. Clone repositori ini: `git clone https://github.com/rezakurnia29/Data-Science/Analisis_Sentiment.git`
+2. Buka salah satu file `.ipynb` di Jupyter Notebook atau Google Colab.
+3. Jalankan cell untuk melihat hasil analisis.
