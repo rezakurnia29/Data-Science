@@ -24,6 +24,9 @@ Tujuan dari analisis ini adalah:
 - **Melatih Model**
 - **Evaluasi Model**
 
+**Hasil**
+Hasil evaluasi dari model ini menunjukkan bahwa model memiliki performa yang cukup baik meskipun ada beberapa perbedaan signifikan antara harga aktual dan harga prediksi pada beberapa data.
+
  ## Cara Menjalankan Proyek
 1. Clone repositori ini: `git clone https://github.com/rezakurnia29/Data-Science/Price Prediction.git`
 2. Buka salah satu file `.ipynb` di Jupyter Notebook atau Google Colab.
