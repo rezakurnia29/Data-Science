@@ -7,31 +7,9 @@ Selamat datang di repositori Data Science Portfolio saya! Di sini, saya mengumpu
 ## Daftar Proyek
 
 ### 1. Customer Churn Analysis
-- **Deskripsi**: Menganalisis faktor-faktor yang memengaruhi churn (hilangnya pelanggan) di sektor perbankan menggunakan algoritma Random Forest.
-- **Tools**: Python, Google Colab, Scikit-learn.
-- **File Proyek**: `ChurnNasabahBank.ipynb`
-- **Hasil Utama**:
-  - Akurasi model: 85%
-  - Faktor terpenting dalam churn: Complain, Age
- 
 ### 2. Customer K-Means Clustering
-- **Deskripsi**: Membagi data menjadi beberapa kelompok menggunakan algoritma K-Means
-- **Tools**: Python, Matplotlib, Scikit-learn.
-- **File Proyek**: `K_Means_Clustering.ipynb`
-- **Hasil Utama**:
-  - Dataset dikelompokkan menjadi 3 cluster utama.
-  - Visualisasi cluster tersedia di dalam notebook.
-
 ### 3. Analisis Sentiment Pubg Mobile
-- **Deskripsi**: Menganalisis sentimen dari ulasan pengguna PUBG Mobile di Google Play Store menggunakan algoritma Naive Bayes.
-- **Tools**: Python, WordCloud, NLTK
-- **File Proyek**: `Analisis_Sentimen_PUBG_Mobile.ipynb`
-- **Hasil Utama**:
-  - **Akurasi model**: 55%
-  - **Distribusi Sentimen** :
-  -   **Negatif**: 520 Ulasan
-  -   **Positif**: 347 Ulasana
-  -   **Neutral**: 133 Ulasan
+### 4. Price Prediction Analysis
 
 ## Cara Menjalankan Proyek
 1. Clone repositori ini: `git clone https://github.com/rezakurnia29/Data-Science.git`
